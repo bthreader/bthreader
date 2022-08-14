@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @bthreader
+- 🔭 I’m currently working on my Masters thesis at UCL, using smart contracts written in Solidity to tokenize securities
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-threader/)
