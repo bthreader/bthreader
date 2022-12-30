@@ -1,7 +1,7 @@
 👋 Hi, I'm Ben.
 
 ## Full Stack Projects
-- Moshi List 🎯 - a to-do app  focused on simplicity and elegance. The [front-end](https://github.com/bthreader/moshi-list) is .ts React with Material UI components and hosted on [gh-pages](https://bthreader.github.io/moshi-list/). The [back-end](https://github.com/bthreader/moshi-list-api) is a FastAPI container running on Azure which uses a MongoDB database. The app uses Microsoft identity platform to manage users.
+- Moshi List 🎯 - a to-do app  focused on simplicity and elegance. The [front-end](https://github.com/bthreader/moshi-list) is .ts React with Material UI components and hosted on [gh-pages](https://bthreader.github.io/moshi-list/). The [back-end](https://github.com/bthreader/moshi-list-api) is a FastAPI container running on Azure accompanied by a MongoDB Atlas database. The app uses Microsoft identity platform to manage users.
 
 ## Machine Learning Projects
 - [Credit Risk Prediction 💳](https://github.com/bthreader/Credit-Risk-Prediction) - feature selection and cross-validation of different models to predict the probability of customer default using the German Credit Risk dataset.
